@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+a{ text-decoration:none;}
+.hfooter a{ color: #3E3E3E;}
+.hfooter{ border-top: 5px solid #1e4b8f; width: 1053px; margin: 0 auto; background: #ffffff;}
+.hyqlj1{ height: 42px; line-height: 42px; border-bottom: 1px solid #dbdbdb; font-size: 16px; overflow: hidden;}
+.hyqlj1 span{ margin-left: 30px; color: #1B1B1B; float:left;}
+.hyqlj1 li{ margin-left: 33px; float: left;}
+.hyqlj1 li img{ float: left; margin: 12px 6px 0 0;}
+.hyqlj1 a{ color: #838383;}
+.hyqlj2{ position: relative; height: 46px; border-bottom: 1px solid #dbdbdb;}
+.hyqlj2 span{ height: 46px; line-height: 46px; float: left; margin-left: 30px; font-size: 16px; color:#1B1B1B;}
+.hyqc{ width: 640px; float:left; }
+.hyqc>li{ padding: 0 20px; height: 46px; line-height: 46px; float: left; color: #888888; font-size: 16px; margin-left: 15px; cursor: pointer; }
+.hyqli{ width: 1043px; height: 122px; padding: 5px; background: #eeeeee; position: absolute; top: 46px; left: 0; overflow-x: hidden; display: none;}
+.hyqc>li:hover{ background: #eeeeee; color:#337BD7; height: 178px;}
+.hyqc>li:hover div{ display: block;}
+.hyqli li{ float: left;  padding-left: 15px; width:232px; font-size: 14px; height: 25px; color:#333333; line-height: 25px;}
+.hfc{ height: 180px; font-size: 12px; color: #838383; padding-top: 30px;}
+.hfc a{ color: #838383;}
+.hfc .fl{ width: 665px; margin-left: 30px; line-height: 30px;}
+.hfc .fl ul{ height: 30px;}
+.hfc .fl li{ float: left;}
+.hfc .fr{ width: 272px; float: right; padding-top: 25px; text-align: center;}
+.hfc .fr li.hdb{ width: 100px; padding-top: 8px; float: left;}
+.hfc .fr li.hzc{ width: 145px; float: left; padding-top: 19px;}
